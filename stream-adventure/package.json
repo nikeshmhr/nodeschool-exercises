@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "duplexer2": "^0.1.4",
+    "stream-adventure": "^4.3.2",
+    "through2": "^4.0.2"
+  },
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "strftime": "^0.10.1",
+    "through2-map": "^3.0.0"
+  },
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
